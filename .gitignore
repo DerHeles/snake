@@ -290,6 +290,5 @@ __pycache__/
 *.xsd.cs
 
 # SFML Files
-/Snake/SFML-2.5.0/*
-!/Snake/SFML-2.5.0/lib/
-!/Snake/SFML-2.5.0/include/
+/Snake/SFML-2.5.0/doc/
+/Snake/SFML-2.5.0/examples/
