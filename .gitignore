@@ -292,3 +292,4 @@ __pycache__/
 # SFML Files
 /Snake/SFML-2.5.0/doc/
 /Snake/SFML-2.5.0/examples/
+!/Snake/SFML-2.5.0/bin/
